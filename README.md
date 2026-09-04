@@ -1,3 +1,8 @@
+> [!NOTE]
+> Archived
+> 
+> In February 2026 NCDMV replaced 3 month in advance booking with a 7 day sliding window system, which has made appointment creation far easier. Hosting a full webscraper is no longer needed in order to get an appointment in a reasonable timeframe. Left up for reference. 
+
 NC-DMV-Scraper is a tool you can use to become aware of DMV appointments right when they become available, without all the extra work of constantly manually monitoring the DMV website.
 
 ![example](exampleoutput.png)
